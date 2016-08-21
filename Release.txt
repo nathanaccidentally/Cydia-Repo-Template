@@ -1,0 +1,9 @@
+Origin: My Repo
+Label: My Repo
+Suite: stable
+Version: 1.0
+Codename: makingarepo
+Architectures: iphoneos-arm
+Components: main
+Description: My development repo.
+MD5Sum:
