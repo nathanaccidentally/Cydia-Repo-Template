@@ -1,1 +1,6 @@
-Put debs in folder
+How to create .deb files:
+
+Move files to /var/mobile and open mobile terminal
+type "su" and enter your password
+next type dpkg -b <PackageName>
+then your deb will be created
